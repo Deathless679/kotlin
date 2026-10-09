@@ -1,0 +1,31 @@
+### Build output ###
+out/
+build/
+bin/
+target/
+*.class
+*.jar
+*.log
+
+### Kotlin / Gradle ###
+.kotlin/
+.gradle/
+local.properties
+
+### IntelliJ IDEA ###
+**/.idea/workspace.xml
+**/.idea/shelf/
+**/.idea/httpRequests/
+**/.idea/dataSources/
+**/.idea/dataSources.local.xml
+**/.idea/usage.statistics.xml
+**/.idea/tasks.xml
+*.iws
+
+### VS Code ###
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
+desktop.ini
